@@ -17,3 +17,4 @@ Task 15- this is a script that moves all files beginning with an upercase letter
 Task 16- this is a script that deletes all files in the current working directory that end with the character ~
 Task 17- this is a script that creates a directory in the current directory
 Task 18- this is a script that lists all the files and directories of the current directory separated by a comma
+Task 19- this is a script that creates a magic file that can be used with the command file to detect school data files
