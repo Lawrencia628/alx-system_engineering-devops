@@ -10,3 +10,4 @@ Task 8- this is a script that deletes the file betty
 Task 9- this is a script used to delete a directory in the /tmp directory
 Task 10- this is a script that changes the working directory to the previous one
 Task 11- this is a script that lists all files in the current directory and the parent of the working directory and the /boot directory in long format
+Task 12- this is a script that prints a new file in the tmp directory
