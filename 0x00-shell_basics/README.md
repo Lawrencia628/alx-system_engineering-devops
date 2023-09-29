@@ -14,3 +14,4 @@ Task 12- this is a script that prints a new file in the tmp directory
 Task 13- this is a symbolic link created in the current working directory
 Task 14- this is a script that copies all the HTML files from the current working directory to the parent of the working directory
 Task 15- this is a script that moves all files beginning with an upercase letter to a directory
+Task 16- this is a script that deletes all files in the current working directory that end with the character ~
